@@ -1,0 +1,38 @@
+div{
+	width: 733px;
+	height: 450px;
+	background-image: url(background.jpeg);
+    text-shadow: darkgreen;
+}
+
+.one{
+	color: white;
+}
+
+.three{
+	margin-top: 30px;
+	width: 400px;
+	height: 30px;
+	border-radius: 40px;
+	background-color: black;
+	color: white;
+}
+
+.five{
+	margin-top: 50px;
+	width: 400px;
+	height: 30px;
+	border-radius: 40px;
+	background-color: black;
+	color: white;
+}
+
+.six{
+	margin-top: 20px;
+	height: 20px;
+	width: 50pxpx;
+	color: white;
+	background-color: black;
+
+}
+
